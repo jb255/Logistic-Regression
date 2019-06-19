@@ -1,6 +1,7 @@
 # Logistic-Regression
 
 Le projet consiste a faire un clean de la data
+
 a la visualiser la data de maniere humainement comprehensible 
 pour par la suite reflechir a comment l'utiliser
 
