@@ -1,12 +1,13 @@
 # Logistic-Regression
 
-Le projet consiste a faire un clean de la data
+Le projet consiste à faire un clean de la data
 
-a la visualiser la data de maniere humainement comprehensible 
-pour par la suite reflechir a comment l'utiliser
+Visualiser la data de maniere humainement comprehensible
+
+Rreflechir à comment utiliser la data
 
 On va pouvoir enlever des data inutiles (semblable, homogènes)
 
-Puis utiliser une methode de one-vs-all avec de la regression logistique
+Puis utiliser une méthode de one-vs-all avec de la régression logistique
 
 ![alt text](https://i.stack.imgur.com/zKpJy.jpg)
